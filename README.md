@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas-maker
 - 👀 I’m interested in building better communities and helping others.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on video game developmen.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on video game development.
 - 📫 reach me at manasmpradhan5@gmail.com
 
 <!---
